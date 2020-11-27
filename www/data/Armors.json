@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"atypeId":1,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":138,"name":"Manto do Arcanista","note":"","params":[60,0,0,20,0,0,0,0],"price":200},
+{"id":2,"atypeId":1,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":139,"name":"Manto do Ocultista","note":"","params":[30,0,0,20,0,0,20,0],"price":200},
+{"id":3,"atypeId":1,"description":"","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":134,"name":"Diadema do Trevo","note":"","params":[30,0,0,10,0,0,0,40],"price":200},
+{"id":4,"atypeId":1,"description":"","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":131,"name":"Capuz do Assassino","note":"","params":[16,15,15,0,10,0,15,0],"price":200},
+{"id":5,"atypeId":2,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Anel das Fadas","note":"","params":[10,10,10,10,10,10,10,10],"price":200},
+{"id":6,"atypeId":2,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Anel Vampírico","note":"","params":[20,0,20,0,20,0,20,0],"price":200}
+]

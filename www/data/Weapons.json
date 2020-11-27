@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"animationId":9,"description":"Uma espada com uma lâmina afiada. Cuidado para não se\ncortar.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"Cajado Gélido","note":"","params":[0,0,12,0,0,0,0,0],"price":210,"wtypeId":6},
+{"id":2,"animationId":18,"description":"Um machado pequeno ideal para cortar madeira ou carne.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"Cajado Infernal","note":"","params":[0,0,25,0,0,0,0,0],"price":340,"wtypeId":6},
+{"id":3,"animationId":119,"description":"Um cajado que permite ao portador canalizar a magia\ndivina da luz.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"Cajado da Luz","note":"","params":[100,0,40,0,0,0,0,0],"price":500,"wtypeId":6},
+{"id":4,"animationId":81,"description":"Um arco que permite ao atirador lançar flechas de\nimensas distâncias.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"Cajado dos Oceanos","note":"","params":[0,200,40,0,0,0,0,0],"price":500,"wtypeId":6},
+{"id":5,"animationId":65,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"Cajado da Morte","note":"","params":[0,20,80,0,10,0,0,0],"price":850,"wtypeId":6},
+{"id":6,"animationId":103,"description":"Esse cajado não pode ser adquirido de maneiras normais.\nProcure outra maneira de comprá-lo.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"Ira dos Deuses","note":"","params":[500,501,500,500,500,500,500,500],"price":0,"wtypeId":6}
+]
